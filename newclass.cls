@@ -9,5 +9,6 @@ public class newclass{
         wrp.qun = qur;
         return wrp;
         line added
+        public string Narendar;
     }
 }
